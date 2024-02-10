@@ -1,0 +1,303 @@
+.modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 5px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  .modal {
+    position: fixed; /* Set the modal's position to fixed */
+    top: 50%; /* Center the modal vertically */
+    left: 50%; /* Center the modal horizontally */
+    transform: translate(-50%, -50%); /* Center the modal exactly in the middle */
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 350px;
+    padding: 20px;
+    z-index: 1000; /* Ensure the modal appears above other elements */
+  }
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+                            
+  
+  .overlay {
+    position: fixed; /* Set the overlay's position to fixed */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    z-index: 999; /* Ensure the overlay appears below the modal */
+  }
+  
